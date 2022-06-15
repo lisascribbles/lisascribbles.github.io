@@ -47,7 +47,6 @@ include:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-show_excerpts: false
 
 # Plugins (previously gems:)
 plugins:
