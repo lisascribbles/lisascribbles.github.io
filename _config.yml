@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "First Lastname"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Ph.D. student in Engineering Education | rhymes with rebellious | Engineer | Artist"
+  bio    : "rhymes with rebellious, Ph.D. student in Engineering Education, Engineer, Artist"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
