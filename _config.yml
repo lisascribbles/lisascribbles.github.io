@@ -13,17 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Engineering. Education. Research.
-email: akatz 4 at vt dot edu
+title: Lisa Schibelius
+email: lisaschib@vt.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Andrew Katz is an assistant professor in the Department of 
-  Engineering Education at Virginia Tech.
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-twitter_username: doc_katz
-github_username: username
-minimal_mistakes_skin: dark
+twitter_username: lisaschibelius
+github_username: lisascribbles
+minimal_mistakes_skin: default
 search: true
 
 # Build settings
@@ -60,37 +58,34 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Andrew S. Katz"
-  avatar : "/assets/images/ak_alt_headshot_small_2.jpg"
-  bio    : "Researcher, teacher, and engineer"
+  name   : "Lisa Schibelius"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : "rhymes with rebellious, Ph.D. student in Engineering Education, Engineer, Artist"
   links:
-    - label: "Official VT Website"
-      icon: "fas fa-fw fa-university"
-      url: "https://enge.vt.edu/People/researchfaculty/andrewkatz.html"
-    - label: "IDEEAS Lab Website"
+    - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "http://www.ideeaslab.com"
+      url: "https://www.linkedin.com/in/lisaschibelius/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/doc_katz"
+      url: "https://twitter.com/lisaschibelius"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    #- label: "Instagram"
-      #icon: "fab fa-fw fa-instagram"
-      #url: "https://instagram.com/"
+      url: "https://github.com/lisascribbles"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.linkedin.com/in/lisaschibelius/"
 
 footer:
   links:
-    - label: ""
+    - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/doc_katz"
-    - label: ""
+      url: "https://twitter.com/lisaschibelius"
+    - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    #- label: "Instagram"
-      #icon: "fab fa-fw fa-instagram"
-      #url: "https://instagram.com/"
+      url: "https://github.com/lisascribbles"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
 
 defaults:
   # _posts
