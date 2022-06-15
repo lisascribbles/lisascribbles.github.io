@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Lisa Schibelius"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "rhymes with rebellious, Ph.D. student in Engineering Education, Engineer, Artist"
   links:
