@@ -15,5 +15,4 @@ Research interests
 ======
 academia-industry alignment, global engineering, cultural awareness,  sustainable engineering, art and creativity in engineering (but her research interests continue to evolve and expand).
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">halfin (@halfin) <a href="https://twitter.com/halfin/status/1110302988">https://twitter.com/halfin/status/1110302988</a></p>&mdash; halfin (@halfin) <a href="https://twitter.com/halfin/status/1110302988"></a></blockquote>
-<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" href="https://twitter.com/LisaSchibelius?ref_src=twsrc%5Etfw">Tweets by LisaSchibelius</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
