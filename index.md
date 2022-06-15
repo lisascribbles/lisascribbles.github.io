@@ -15,3 +15,5 @@ Research interests
 ======
 academia-industry alignment, global engineering, cultural awareness,  sustainable engineering, art and creativity in engineering (but her research interests continue to evolve and expand).
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">halfin (@halfin) <a href="https://twitter.com/halfin/status/1110302988">https://twitter.com/halfin/status/1110302988</a></p>&mdash; halfin (@halfin) <a href="https://twitter.com/halfin/status/1110302988"></a></blockquote>
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
