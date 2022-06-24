@@ -14,6 +14,6 @@ Lisa is currently pursuing her Ph.D. in Engineering Education at Virginia Tech a
 
 Research interests
 ======
-academia-industry alignment, global engineering, cultural awareness,  sustainable engineering, art and creativity in engineering (but her research interests continue to evolve and expand).
+academia-industry alignment, interpersonal competencies (i.e. communication), global engineering, sustainable engineering, faculty development, art and creativity in engineering, cultural awareness (but her research interests continue to evolve and expand).
 
 <a class="twitter-timeline" href="https://twitter.com/LisaSchibelius?ref_src=twsrc%5Etfw">Tweets by LisaSchibelius</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
