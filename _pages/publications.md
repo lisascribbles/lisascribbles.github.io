@@ -3,7 +3,7 @@ permalink: /publications/
 title: "Publications"
 ---
 
-<img src='/assets/images/googlescholarlogo.png' width="25"> Publications on [Google Scholar Profile](https://scholar.google.com/citations?user=6CNW8WkAAAAJ&hl=en&inst=13410158990364976897&oi=ao) <br>
+<img src='/assets/images/googlescholarlogo.png' width="25"> [Google Scholar Profile](https://scholar.google.com/citations?user=6CNW8WkAAAAJ&hl=en&inst=13410158990364976897&oi=ao) <br>
 
 <span style="font-size:13pt">
 
