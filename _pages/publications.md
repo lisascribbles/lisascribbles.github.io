@@ -14,4 +14,4 @@ title: "Publications"
   <li><b>Lisa Schibelius</b> and Carlos Montalvo. “Design of an Atmospheric Sensing Package for a Quadrotor”. In: AIAA Region II Student Conference Starkville, MS. Apr. 2017.</li>
   <li>Sytske Kimball, Carlos Montalvo, and <b>Lisa Schibelius</b>. “Comparing quadcopter iMET Temperature, Pressure, and Humidity data with 10 m tower data”. In: 97th Annual Meeting of the American Meteorological Society Seattle, Washington. Jan. 2017.</li>
   <li><b>Schibelius, L.M.</b>, Montalvo, C.J. (April 2016) Simulation analysis of a speed-controlled single-cylinder vehicle. AIAA 2016 Region II Student Conference, Huntsville, AL</li>
-</ol></span>
+</ol>
