@@ -5,6 +5,8 @@ main:
     url: /about/
   - title: "Publications"
     url: /publications/
+  - title: "Inspiration"
+    url: /inspiration/
 
   #- title: "Categories"
     #url: /categories/
