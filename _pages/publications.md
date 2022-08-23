@@ -13,4 +13,5 @@ title: "Publications"
 4. **Schibelius, Lisa M.**, and Carlos J. Montalvo. "Multi-MASS: A Fleet of Unmanned Aerial Vehicles for Atmospheric Characterization." 9th AIAA Atmospheric and Space Environments Conference. 2017
 5. **Lisa Schibelius** and Carlos Montalvo. “Design of an Atmospheric Sensing Package for a Quadrotor”. In: AIAA Region II Student Conference Starkville, MS. Apr. 2017.
 6. Sytske Kimball, Carlos Montalvo, and **Lisa Schibelius**. “Comparing quadcopter iMET Temperature, Pressure, and Humidity data with 10 m tower data”. In: 97th Annual Meeting of the American Meteorological Society Seattle, Washington. Jan. 2017.
-7. **Schibelius, L.M.**, Montalvo, C.J. (April 2016) Simulation analysis of a speed-controlled single-cylinder vehicle. AIAA 2016 Region II Student Conference, Huntsville, AL</span>
+7. **Schibelius, L.M.**, Montalvo, C.J. (April 2016) Simulation analysis of a speed-controlled single-cylinder vehicle. AIAA 2016 Region II Student Conference, Huntsville, AL
+</span>
