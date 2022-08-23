@@ -67,7 +67,7 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/lisaschibelius"
     - label: "Google Scholar"
-      icon: "fab fa-graduation-cap"
+      icon: "fab fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=6CNW8WkAAAAJ&hl=en&inst=13410158990364976897&oi=ao"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
