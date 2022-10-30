@@ -85,9 +85,9 @@ footer:
       icon: "fa fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=6CNW8WkAAAAJ&hl=en&inst=13410158990364976897&oi=ao"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/lisascribbles"
-
+      icon: "fab fa-fw fa-envelope"
+      url: "mailto:lisaschib@vt.edu"
+      
 defaults:
   # _posts
   - scope:
