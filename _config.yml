@@ -58,8 +58,11 @@ plugins:
 author:
   name   : "Lisa Schibelius"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "rhymes with rebellious, Ph.D. student in Engineering Education, Engineer, Artist"
+  bio    : "rhymes with rebellious, Ph.D. student in Engineering Education, Engineer, Artist; lisaschib@gmail.com"
   links:
+    - label: "Email"
+      icon: "fa fa-envelope"
+      url: "mailto:lisaschib@vt.edu"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/lisaschibelius/"
@@ -69,12 +72,12 @@ author:
     - label: "Google Scholar"
       icon: "fa fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=6CNW8WkAAAAJ&hl=en&inst=13410158990364976897&oi=ao"
-    - label: "Email: lisaschib@gmail.com"
-      icon: "fa fa-envelope"
-      url: "mailto:lisaschib@vt.edu"
 
 footer:
   links:
+    - label: "Email me"
+      icon: "fa fa-envelope"
+      url: "mailto:lisaschib@vt.edu"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/lisaschibelius/"
@@ -84,9 +87,6 @@ footer:
     - label: "Google Scholar"
       icon: "fa fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=6CNW8WkAAAAJ&hl=en&inst=13410158990364976897&oi=ao"
-    - label: "GitHub"
-      icon: "fa fa-envelope"
-      url: "mailto:lisaschib@vt.edu"
       
 defaults:
   # _posts
